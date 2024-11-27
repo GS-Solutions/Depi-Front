@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depi-Front.Server", "Depi-Front.Server\Depi-Front.Server.csproj", "{38E09F4F-833A-4696-8973-91B14A714E6D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "depi-front.client", "depi-front.client\depi-front.client.esproj", "{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E09F4F-833A-4696-8973-91B14A714E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E09F4F-833A-4696-8973-91B14A714E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E09F4F-833A-4696-8973-91B14A714E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E09F4F-833A-4696-8973-91B14A714E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276928D1-C057-45EC-A9AD-3E5FB6BB85CB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2BEA2B-696C-46CB-B9A2-4D896EACDBF0}
+	EndGlobalSection
+EndGlobal
